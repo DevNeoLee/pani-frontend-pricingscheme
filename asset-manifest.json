@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pani-frontend-pricingscheme/static/css/main.bfdaf830.chunk.css",
+    "main.js": "/pani-frontend-pricingscheme/static/js/main.0361fa5a.chunk.js",
+    "main.js.map": "/pani-frontend-pricingscheme/static/js/main.0361fa5a.chunk.js.map",
+    "runtime-main.js": "/pani-frontend-pricingscheme/static/js/runtime-main.113e1aaf.js",
+    "runtime-main.js.map": "/pani-frontend-pricingscheme/static/js/runtime-main.113e1aaf.js.map",
+    "static/js/2.b0ddab99.chunk.js": "/pani-frontend-pricingscheme/static/js/2.b0ddab99.chunk.js",
+    "static/js/2.b0ddab99.chunk.js.map": "/pani-frontend-pricingscheme/static/js/2.b0ddab99.chunk.js.map",
+    "static/js/3.b19aa700.chunk.js": "/pani-frontend-pricingscheme/static/js/3.b19aa700.chunk.js",
+    "static/js/3.b19aa700.chunk.js.map": "/pani-frontend-pricingscheme/static/js/3.b19aa700.chunk.js.map",
+    "index.html": "/pani-frontend-pricingscheme/index.html",
+    "static/css/main.bfdaf830.chunk.css.map": "/pani-frontend-pricingscheme/static/css/main.bfdaf830.chunk.css.map",
+    "static/js/2.b0ddab99.chunk.js.LICENSE.txt": "/pani-frontend-pricingscheme/static/js/2.b0ddab99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.113e1aaf.js",
+    "static/js/2.b0ddab99.chunk.js",
+    "static/css/main.bfdaf830.chunk.css",
+    "static/js/main.0361fa5a.chunk.js"
+  ]
+}
