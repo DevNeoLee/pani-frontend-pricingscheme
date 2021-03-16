@@ -47,7 +47,6 @@ const reducer = (state, action) => {
   }
 }
 
-
 export default function App() {
   const [state, dispatch] = useReducer(reducer, initialState);
 
